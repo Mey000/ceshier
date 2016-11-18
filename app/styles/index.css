@@ -1,0 +1,47 @@
+*{margin:0;padding:0;}
+ul,ul li,li{list-style: none;} 
+body{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+section{
+	width: 100%;
+}
+section nav{
+	height: 48px;
+	border-top: 2px solid #777777;
+	border-bottom: 1px solid #777777;
+	line-height: 45px;
+}
+section nav li{
+	float: left;
+	padding: 0 10px;
+}
+section .con_left{
+	float: left;
+	width: 420px;
+}
+.list1{
+	width: 420px;
+}
+.list1 li{
+	text-indent: 15px;
+	height: 28px;
+	line-height:28px;
+}
+section .con_mid{
+	float: left;
+	width: 275px;
+}
+section .con_mid img{
+	width: 275px;
+	height: auto;
+}
+
+section .con_right{
+	float: left;
+	width: 305px;
+}
+
+
